@@ -7,3 +7,7 @@ Like C, Python also has a linter / style guide like Betty, called PEP8, also now
 
 
 		Author: Oseni Sakariyau Oluwadamilare
+
+## License
+
+Released under the [MIT License](LICENSE).
